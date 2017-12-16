@@ -1,7 +1,6 @@
 {
-    "doc" : "https://faroit.github.io/keras-docs/1.2.0/backend/",
     "image_dim_ordering": "tf",
     "epsilon": 1e-07,
     "floatx": "float32",
-    "backend": "mxnet"
+    "backend": "tensorflow"
 }
